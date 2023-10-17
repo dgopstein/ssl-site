@@ -1,6 +1,7 @@
 ---
 title: Projects
 subnav: projects
+permalink: /projects/
 layout: default
 ---
 
@@ -58,22 +59,22 @@ layout: default
     <img class="image" src="{{ project.image }}"></img>
     {% endif %}
 
-    <div class="description"><p>
-      {{ project.description }}
-    </p></div>
+    <div class="description">
+      {% for desc in project.description %}
+      <p>
+        {{ desc }}
+      </p>
+      {% endfor %}
+    </div>
 
-    <ul>
        {% if project.products %}
-         <li>
-           <span class="header">Products: </span>
-           <span class="products">{{ project.products }}</span>
-         </li>
+           <h5 class="header">Products</h5>
+           <p class="products">{{ project.products }}</p>
        {% endif %}
 
        {% if project.people %}
-          <br />
-          <li><div class="people">
-             <span class="header">People: </span>
+          <div class="people">
+             <h5 class="header">People</h5>
              {% assign personLinks = '' | split:':' %}
              {% for person in project.people %}
              {% if person == nil %}
@@ -87,9 +88,8 @@ layout: default
              {% endfor %}
 
              {{ personLinks | array_to_sentence_string }}
-          </div></li>
+          </div>
        {% endif %}
-    </ul>
   </div>
   {% endfor %}
   <div class="project">

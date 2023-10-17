@@ -44,7 +44,8 @@ projects:
         site: "https://theupdateframework.github.io"
         status: *stealth
         description: "Software must be updated frequently to not only ensure"
-        products: "TUF is used in production by"
+        products:
+          - "TUF is used in production by"
         people:
             - *justin_cappos
         tags:

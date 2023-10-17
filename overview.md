@@ -1,6 +1,7 @@
 ---
 title: Overview
 subnav: overview
+permalink: /overview/
 layout: default
 ---
 

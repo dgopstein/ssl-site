@@ -12,7 +12,7 @@ people:
           internal: true
           role: "Professor and Lab Director"
           since: 2010
-          photo: "img/people/justin_cappos.jpg"
+          photo: "/img/people/justin_cappos.jpg"
           interests: "Solving real world security problems in practice"
           publications:
             - name: "ACSAC 2023"
@@ -45,7 +45,7 @@ people:
           internal: true
           role: "Research Professor, now affiliated with Research Group Cooperative Systems at the University of Vienna"
           since: "2011"
-          photo: "img/people/albert_rafetseder.jpg"
+          photo: "/img/people/albert_rafetseder.jpg"
           interests: "Building experimental platforms for research, education, and the general public"
           publications:
             - name: "TPDS 2018"
@@ -70,7 +70,7 @@ people:
           internal: true
           role: "Research Professor"
           since: "2016"
-          photo: "img/people/sam_weber.jpg"
+          photo: "/img/people/sam_weber.jpg"
           interests: "Secure development processes, Cybersecurity"
           publications:
             - name: "USENIX ATC 2017"
@@ -92,7 +92,7 @@ people:
           internal: true
           role: "Developer"
           since: "2013"
-          photo: "img/people/vlad_diaz.jpg"
+          photo: "/img/people/vlad_diaz.jpg"
           interests: "Software update security"
           publications:
             - name: "USENIX ATC 2017"
@@ -111,7 +111,7 @@ people:
           internal: true
           role: "Developer, now Security Engineer at Anaconda"
           since: "2015"
-          photo: "img/people/sebastien_awwad.jpg"
+          photo: "/img/people/sebastien_awwad.jpg"
           interests: "Incentivizing secure code, secure frameworks, computational neuroscience"
           publications:
             - name: "ESCAR USA 2020 Special Issue"
@@ -126,7 +126,7 @@ people:
           internal: true
           role: "Developer"
           since: "2016"
-          photo: "img/people/lukas_puhringer.jpg"
+          photo: "/img/people/lukas_puhringer.jpg"
           interests: "Security in operating systems and full stack networking. Distributed software and version control systems"
           publications:
             - name: "FWC 2017"
@@ -146,7 +146,7 @@ people:
           internal: true
           role:  "Ph.D. 2017, now Engineering Manager at DataDog"
           since: "2011"
-          photo: "img/people/trishank_kuppusamy.jpg"
+          photo: "/img/people/trishank_kuppusamy.jpg"
           site: "https://github.com/trishankkarthik"
           interests: "Securing software updates for community repositories and automobiles"
           publications:
@@ -173,7 +173,7 @@ people:
           internal: true
           role: "Ph.D. 2016 (co-advised by Yong Liu), now a Research Scientist at Facebook"
           since: "2011"
-          photo: "img/people/luqin_wang.jpg"
+          photo: "/img/people/luqin_wang.jpg"
           interests: "Social networks, Internet measurement, network security and distributed systems"
           publications:
               - name: "PAM 2015"
@@ -186,7 +186,7 @@ people:
           internal: true
           role: "Ph.D. 2019 from Columbia University (co-advised by Allison Bishop and Tal Malkin), now a tenure track assistant professor at UConn"
           since: "2015"
-          photo: "img/people/ghada_almashaqbeh.jpg"
+          photo: "/img/people/ghada_almashaqbeh.jpg"
           site: "http://www.cs.columbia.edu/~ghada/"
           interests: "Cryptography, security, distributed computing"
           publications:
@@ -207,7 +207,8 @@ people:
           internal: true
           role: "Ph.D. 2021 (co-advised by Brendan Dolan-Gavitt), now a Software Platform Architect at Intel"
           since: "2013"
-          photo: "img/people/yiwen_li.jpg"
+          photo: "/img/people/yiwen_li.jpg"
+          site: "http://engineering.nyu.edu/people/yiwen-li"
           interests: "Operating system security, virtualization, network security"
           publications:
               - name: "USENIX ATC 2017"
@@ -223,7 +224,7 @@ people:
           internal: true
           role: "Ph.D. 2020, now an assistant professor of Electrical and Computer Engineering at Purdue University"
           since: "2014"
-          photo: "img/people/santiago_torres.png"
+          photo: "/img/people/santiago_torres.png"
           site: "https://sangy.xyz"
           interests: "Password protection and securing the software supply chain"
           publications:
@@ -251,7 +252,7 @@ people:
           internal: true
           role: "Developer"
           since: "2016"
-          photo: "img/people/artiom_baloian.jpg"
+          photo: "/img/people/artiom_baloian.jpg"
           interests: "Software Security, Code Obfuscation, Compilers"
           publications:
             - name: "Concurrency and Computation: Practice and Experience 2017"
@@ -272,7 +273,7 @@ people:
           internal: true
           role: "Research Associate/Technical Writer"
           since: "2015"
-          photo: "img/people/lois_delong.jpg"
+          photo: "/img/people/lois_delong.jpg"
           interests: "Experimental design involving human subjects; links between natural and programming languages; preparation and dissemination of technical standards"
           publications:
                 - name: "Behaviour and Information Security"
@@ -294,7 +295,7 @@ people:
           internal: true
           role: "Ph.D. 2015 (co-advised by Keith Ross), now a Senior Research Scientist at Google"
           since: "2011"
-          photo: "img/people/sai_peddinti.jpg"
+          photo: "/img/people/sai_peddinti.jpg"
           site: "http://www.saitejapeddinti.com/"
           interests: "Privacy, security, social networks, machine learning"
           publications:
@@ -314,7 +315,7 @@ people:
           internal: true
           role: "Ph.D. 2022 (co-advised with Phyllis Frankl), now a Senior Software Engineer at Anaconda"
           since: "2015"
-          photo: "img/people/preston_moore2.jpg"
+          photo: "/img/people/preston_moore.jpg"
           interests: "Secure software engineering, automated testing, systems security"
           publications:
          
@@ -330,7 +331,7 @@ people:
           internal: true
           role: "Ph.D. 2020"
           since: "2015"
-          photo: "img/people/dan_gopstein.jpg"
+          photo: "/img/people/dan_gopstein.jpg"
           interests: "Programming languages and software systems"
           publications:
             - name: "FSE 2020"
@@ -352,7 +353,7 @@ people:
           internal: true
           role: "Research Professor, now a tenure track professor at the University of Colorado, Colorado Springs"
           since: "2014"
-          photo: "img/people/yanyan_zhuang.jpg"
+          photo: "/img/people/yanyan_zhuang.jpg"
           interests: "Mobile systems, wireless networks, privacy and security"
           publications:
             - name: "Behaviour and Information Security"
@@ -383,7 +384,7 @@ people:
           internal: true
           role: "Ph.D. Candidate"
           since: 2018
-          photo: "img/people/marina_moore.jpg"
+          photo: "/img/people/marina_moore.jpg"
           interests: "Systems security, privacy"
           publications:      
             - name: "ACSAC 2023"
@@ -397,7 +398,7 @@ people:
           internal: true
           role: "Ph.D. Candidate (co-advised by Brendan Dolan-Gavitt)"
           since: 2019
-          photo: "img/people/nick_renner.png"
+          photo: "/img/people/nick_renner.png"
           site: "http://nickrenner.com"
           interests: "Systems security, operating systems, Internet of Things"
 
@@ -408,7 +409,7 @@ people:
           internal: true
           role: "Developer"
           since: 2018
-          photo: "img/people/joey_pabalinas.jpg"
+          photo: "/img/people/joey_pabalinas.jpg"
           interests: "Linux kernel development"
           deployments: <a href="https://github.com/alyptik/cepl/">CEPL</a>, an interactive C read-eval-print loop.
 
@@ -418,7 +419,7 @@ people:
           internal: true
           role: "Ph.D. Candidate"
           since: 2019
-          photo: "img/people/aditya_sirish.jpg"
+          photo: "/img/people/aditya_sirish.jpg"
           site: "https://saky.in/"
           interests: "Internet privacy, systems security"
 
@@ -429,7 +430,7 @@ people:
           internal: false
           role: "Visiting scholar contracted with Python Software Foundation"
           since: 2019
-          photo: "img/people/sumana_harihareswara.jpg"
+          photo: "/img/people/sumana_harihareswara.jpg"
           interests: "Open source software maintainership, release management, Python dependency management, packaging and distribution"
           deployments: Project manager for <a href="https://pip.pypa.io/">pip</a>, previously for <a href="https://pypi.org/">the Python Package Index (PyPI)</a> (<a href="https://lwn.net/Articles/751458/">LWN coverage</a>).
 
@@ -439,7 +440,7 @@ people:
           internal: true
           role: "Master's student"
           since: 2019
-          photo: "img/people/ashish_das.jpg"
+          photo: "/img/people/ashish_das.jpg"
           interests: "Applied cryptography, secure systems"
 
       - &yash_shah
@@ -448,7 +449,7 @@ people:
           internal: true
           role: "Master's student"
           since: 2019
-          photo: "img/people/yash_shah.jpg"
+          photo: "/img/people/yash_shah.jpg"
           interests: "Vulnerabilities, incident and event management"
 
       - &cindy_kim
@@ -457,7 +458,7 @@ people:
           internal: true
           role: "Undergraduate student"
           since: 2019
-          photo: "img/people/cindy_kim.jpg"
+          photo: "/img/people/cindy_kim.jpg"
           interests: "Systems security, privacy, and social networks"
 
       - &kristel_fung
@@ -466,7 +467,7 @@ people:
           internal: true
           role: "Undergraduate student"
           since: 2019
-          photo: "img/people/kristel_fung.jpg"
+          photo: "/img/people/kristel_fung.jpg"
           interests: "Cybersecurity, cryptography, software development"
 
       - &yuanrui_chen
@@ -475,7 +476,7 @@ people:
           internal: true
           role: "Undergraduate student"
           since: 2020
-          photo: "img/people/yuanrui_chen.jpg"
+          photo: "/img/people/yuanrui_chen.jpg"
           interests: "Network security, software security, and software development"
 
       - &isha_dave
@@ -484,7 +485,7 @@ people:
           internal: true
           role: "Undergraduate student"
           since: 2020
-          photo: "img/people/isha_dave.jpg"
+          photo: "/img/people/isha_dave.jpg"
           interests: "Cybersecurity and game design and development"
 
       - &kaitlyn_liu
@@ -493,7 +494,7 @@ people:
           internal: true
           role: "Undergraduate student"
           since: 2020
-          photo: "img/people/kaitlyn_liu.jpg"
+          photo: "/img/people/kaitlyn_liu.jpg"
           interests: "Systems security and computer vision"
 
       - &benjamin_wu
@@ -502,7 +503,7 @@ people:
             internal: true
             role: "Undergraduate student"
             since: 2020
-            photo: "img/people/benjamin_wu.jpg"
+            photo: "/img/people/benjamin_wu.jpg"
             interests: "Financial technology, cybersecurity, cryptography"
 
       - &ge_yang
@@ -511,7 +512,7 @@ people:
             internal: true
             role: "Undergraduate student"
             since: 2020
-            photo: "img/people/ge_yang.jpg"
+            photo: "/img/people/ge_yang.jpg"
             interests: "Security and privacy"
 
       - &jonathan_singer
@@ -520,7 +521,7 @@ people:
             internal: true
             role: "Undergraduate student"
             since: 2020
-            photo: "img/people/jonathan_singer.jpg"
+            photo: "/img/people/jonathan_singer.jpg"
             interests: "Systems security, network security, POSIX kernels"
 
       - &raghav_sai
@@ -529,7 +530,7 @@ people:
             internal: true
             role: "Master's Student"
             since: 2020
-            photo: "img/people/raghav_sai.jpg"
+            photo: "/img/people/raghav_sai.jpg"
             interests: "Software development and security, internet privacy"
 
       - &caglar_dogan
@@ -538,7 +539,7 @@ people:
             internal: true
             role: "Undergraduate student"
             since: 2020
-            photo: "img/people/caglar_dogan.jpg"
+            photo: "/img/people/caglar_dogan.jpg"
             interests: "Theory of computation, cryptography, systems security"
   
       - &almazhan_kapan
@@ -547,7 +548,7 @@ people:
             internal: true
             role: "Undergraduate student"
             since: 2021
-            photo: "img/people/almazhan_kapan.jpg"
+            photo: "/img/people/almazhan_kapan.jpg"
             interests: "Privacy, systems security, software development"
             
       - &hugo_yin
@@ -556,7 +557,7 @@ people:
             internal: true
             role: "Undergraduate student"
             since: 2021
-            photo: "img/people/hugo_yin.jpg"
+            photo: "/img/people/hugo_yin.jpg"
             interests: "Automated tests, software development"
   
       - &ritik_roongta
@@ -772,8 +773,8 @@ projects:
         name: "Testing Tools"
         anchor: testing_tools
 
-    intro: "Though all of SSL’s research initiatives—<a href='retired-projects'>past</a>
-    and <a href='projects'>present</a>—revolve around ensuring secure operation
+    intro: "Though all of SSL’s research initiatives—<a href='/retired-projects'>past</a>
+    and <a href='/projects'>present</a>—revolve around ensuring secure operation
     of computer systems, the specific areas addressed by the team vary greatly.
     Initiatives are grouped into the following categories:"
 
@@ -781,18 +782,23 @@ projects:
     - &tuf
         name: "The Update Framework (TUF)"
         anchor: "tuf"
-        image: "img/projects/tuf_diagram.png"
+        image: "/img/projects/tuf_diagram.png"
         site: "https://theupdateframework.github.io"
         status: *adopted
-        description: "Software must be updated frequently to not only ensure
-    improved operation, but also to patch security flaws.
-    Unfortunately, the act of performing an update can itself be a
-    way to attack a computer, if a malicious update is installed. TUF is a
-    comprehensive, flexible framework to secure software updates even in situations
-    where the software repository is compromised. Developers can integrate TUF
-    into any software update system, or native programming language due to its
-    concise, self-contained architecture and specification. It offers both developers
-    and users protection from a host of potential attacks."
+        description:
+          - "Software must be updated frequently to not only ensure
+            improved operation, but also to patch security flaws.
+            Unfortunately, the act of performing an update can itself be a
+            way to attack a computer, if a malicious update is installed. TUF is a
+            comprehensive, flexible framework to secure software updates even in situations
+            where the software repository is compromised."
+          - "Developers can integrate TUF into any software update system, or
+            native programming language due to its concise, self-contained
+            architecture and specification. In 2019, it became both the
+            first security project and the first project led by an academic researcher to achieve
+            <a href=\"https://lwn.net/Articles/807777/\">graduate status</a> within the Cloud
+            Native Computing Foundation (CNCF).
+            <a href=\"https://store.cncf.io/collections/tuf\">Buy our merch!</a>"
         products: "<a href=\"https://theupdateframework.com\">TUF</a> is used in
         production by a <a
     href=\"https://theupdateframework.github.io/adoptions.html\">variety of
@@ -806,8 +812,7 @@ projects:
         <a href=\"https://www.python.org/dev/peps/pep-0480/\">480</a>.
         TUF, and Docker's popular implementation of TUF, are now
     <a href=\"http://www.linuxfoundation.org/\">Linux Foundation</a>
-        projects as part of the Cloud Native Computing Foundation. In 2019, TUF became both the first security project and the first project led by an academic researcher to achieve <a href=\"https://lwn.net/Articles/807777/\">graduate status</a> within the CNCF. 
-    <a href=\"https://store.cncf.io/collections/tuf\">Buy our merch!</a>"
+        projects as part of the CNCF."
         people:
             - *sebastien_awwad
             - *marina_moore
@@ -822,18 +827,23 @@ projects:
     - &uptane
         name: "Uptane"
         anchor: "uptane"
-        image: "img/projects/uptane_diagram.png"
+        image: "/img/projects/uptane_diagram.png"
         status: *adopted
         site: "https://uptane.github.io/"
-        description: "Cars today use a truly enormous
+        description:
+          - "Cars today use a truly enormous
     amount of software, and, like any
     software, it contains bugs. Uptane provides a
     mechanism to securely distribute software updates to cars. The framework can counter a
     comprehensive array of security attacks, and is resilient to partial
     compromises, while addressing  automotive specific vulnerabilities and
-    limitations. It was named one of
+    limitations."
+          - "Uptane was named one of
     the <a href=\"https://www.popsci.com/top-security-innovations-2017#page-2\">Top
-    Security Innovations of 2017</a> by Popular Science Magazine. Uptane is a <a href=\"https://www.jointdevelopment.org/\">Joint Development Foundation</a> project of the <a href=\"https://www.linuxfoundation.org/\">Linux Foundation</a>, operating under the formal title of Joint Development Foundation Projects, LLC, Uptane Series."
+    Security Innovations of 2017</a> by Popular Science Magazine.
+    Uptane is a <a href=\"https://www.jointdevelopment.org/\">Joint Development Foundation</a>
+    project of the <a href=\"https://www.linuxfoundation.org/\">Linux Foundation</a>,
+    operating under the formal title of Joint Development Foundation Projects, LLC, Uptane Series."
         products: "Uptane has already been adopted by
     <a href=\"/blog/2017-04-04-uptane-blog-post\">multiple auto makers</a>.
     Uptane has been
@@ -879,12 +889,12 @@ projects:
     - &in-toto
         name: "in-toto"
         anchor: "in-toto"
-        image: "img/projects/in-toto_diagram.png"
+        image: "/img/projects/in-toto_diagram.png"
         status: *adopted
         site: "https://in-toto.io"
-        description: "Do you know who has handled your software prior to its installation on your machine? Even if developers are careful to secure each step in their products' supply chain, there is little assurance about what happens in-between these steps. The in-toto system holistically enforces the integrity of a software supply chain by gathering and signing information about each step in the process. As such, in-toto provides accountability about how software is written, packaged and distributed...and by who."
-        products: "The in-toto software has already been integrated into several open
-    source projects. In 2019, Datadog announced the use of <a href=\"https://www.datadoghq.com/blog/engineering/secure-publication-of-datadog-agent-integrations-with-tuf-and-in-toto/\">TUF and in-toto</a> on their agents integration downloader. In November 23 of 2020, the framework released <a href=\"https://techxplore.com/news/2020-12-free-tool-layer-software-chain.html/\">Version 1.0.0</a>, and on March 10, CNCF <a href=\"https://www.cncf.io/blog/2022/03/10/supply-chain-security-project-in-toto-moves-to-the-cncf-incubator/\">announced</a> the project had graduated to the incubator. Also, a <a href=\"https://salsa.debian.org/reproducible-builds/debian-rebuilder-setup\">constellation</a> <a href=\"https://r-b.engineering.nyu.edu/\">of</a> <a href=\"https://reproducible.seal.purdue.wtf/\">rebuilders</a> are generating in-toto metadata so you can check your Debian packages were built reproducibly when using <a href=\"https://github.com/in-toto/apt-transport-in-toto\">apt</a>. We welcome you to download the in-toto instructions, which includes a <a href=\"https://github.com/in-toto/demo/\">demo version</a> of our software, or to clone our <a href=\"https://github.com/in-toto/in-toto/\">repository</a> and follow the directions to integrate in-toto into your software project!"
+        description:
+          - "Do you know who has handled your software prior to its installation on your machine? Even if developers are careful to secure each step in their products' supply chain, there is little assurance about what happens in-between these steps. The in-toto system holistically enforces the integrity of a software supply chain by gathering and signing information about each step in the process. As such, in-toto provides accountability about how software is written, packaged and distributed...and by who."
+        products: "The in-toto software has already been integrated into several open source projects. In 2019, Datadog announced the use of <a href=\"https://www.datadoghq.com/blog/engineering/secure-publication-of-datadog-agent-integrations-with-tuf-and-in-toto/\">TUF and in-toto</a> on their agents integration downloader. In November 23 of 2020, the framework released <a href=\"https://techxplore.com/news/2020-12-free-tool-layer-software-chain.html/\">Version 1.0.0</a>, and on March 10, CNCF <a href=\"https://www.cncf.io/blog/2022/03/10/supply-chain-security-project-in-toto-moves-to-the-cncf-incubator/\">announced</a> the project had graduated to the incubator. Also, a <a href=\"https://salsa.debian.org/reproducible-builds/debian-rebuilder-setup\">constellation</a> <a href=\"https://r-b.engineering.nyu.edu/\">of</a> <a href=\"https://reproducible.seal.purdue.wtf/\">rebuilders</a> are generating in-toto metadata so you can check your Debian packages were built reproducibly when using <a href=\"https://github.com/in-toto/apt-transport-in-toto\">apt</a>. We welcome you to download the in-toto instructions, which includes a <a href=\"https://github.com/in-toto/demo/\">demo version</a> of our software, or to clone our <a href=\"https://github.com/in-toto/in-toto/\">repository</a> and follow the directions to integrate in-toto into your software project!"
         people:
             - *santiago_torres
             - *lukas_puhringer
@@ -903,10 +913,11 @@ projects:
     - &atoms
         name: "Atoms of Confusion"
         anchor: "atoms"
-        image: "img/projects/atoms_business_card_closeup_small.png"
+        image: "/img/projects/atoms_business_card_closeup_small.png"
         site: "https://atomsofconfusion.com/"
         status: *starting
-        description: "Within every confusing piece of software code
+        description:
+          - "Within every confusing piece of software code
     are small patterns that can lead developers  to outputs that radically
     differ from what was intended. In studying these “atoms of confusion” we
     look to build a firm empirical foundation for reducing code confusion in
@@ -935,10 +946,11 @@ projects:
     - &cachecash
         name: "CacheCash"
         anchor: "cachecash"
-        image: "img/projects/cachecash_diagram.png"
+        image: "/img/projects/cachecash_diagram.png"
         site:
         status: *stealth
-        description: "Delivery of large chunks of content, such as video, accounts for a
+        description:
+          - "Delivery of large chunks of content, such as video, accounts for a
     substantial percentage of all Internet traffic.  This content is usually
     served by provider networks that contract with Internet Service Providers.
     CacheCash provides a similar service in which interested
@@ -966,10 +978,11 @@ projects:
     - &lind
         name: "Lind"
         anchor: "lind"
-        image: "img/projects/lind_diagram.jpg"
+        image: "/img/projects/lind_diagram.jpg"
         status: *stealth
         site:
-        description: "Despite the best efforts of developers most operating system
+        description:
+          - "Despite the best efforts of developers most operating system
     kernels contain flaws, and strategies to defend against triggering them
     have fallen short. Lind is a new virtual machine design that defends
     against these bugs by locking all system calls into popular access paths.
@@ -996,10 +1009,11 @@ projects:
     - &crashsimulator
         name: "CrashSimulator"
         anchor: "crashsimulator"
-        image: "img/projects/crashsimulator_diagram.png"
+        image: "/img/projects/crashsimulator_diagram.png"
         site:
         status: *retired
-        description: "CrashSimulator is a tool that replicates “real-world” testing for new and upgraded software without the complications of “real-world” deployment. The program enables software developers to identify vulnerabilities in product designs long before they are packaged and released."
+        description:
+          - "CrashSimulator is a tool that replicates “real-world” testing for new and upgraded software without the complications of “real-world” deployment. The program enables software developers to identify vulnerabilities in product designs long before they are packaged and released."
         products: "We are in stealth mode!  If you want to be contacted when we
     publicly release, please email <a href=\"mailto:crashsimulator@googlegroups.com\">crashsimulator@googlegroups.com</a>."
         people:
@@ -1017,10 +1031,11 @@ projects:
     - &pph
         name: "PolyPasswordHasher (PPH)"
         anchor: "pph"
-        image: "img/projects/pph_diagram.png"
+        image: "/img/projects/pph_diagram.png"
         status: *retired
         site: "https://polypasswordhasher.github.io/PolyPasswordHasher/"
-        description: "A password database disclosure can be devastating, costing
+        description:
+          - "A password database disclosure can be devastating, costing
     companies billions of dollars in damages. PolyPasswordHasher offers a new
     approach to prevent attackers from finding out which passwords are being used.
     By interrelating stored password data, potential hackers are forced to crack
@@ -1041,10 +1056,11 @@ projects:
     - &seattle
         name: "Seattle"
         anchor: "seattle"
-        image: "img/projects/seattle_color_map.jpg"
+        image: "/img/projects/seattle_color_map.jpg"
         site: "https://seattle.poly.edu/html/"
         status: *retired
-        description: "Cloud computing can provide tremendous benefits due to its
+        description:
+          - "Cloud computing can provide tremendous benefits due to its
     ability to offload computation on demand. However, cloud resources are often
     located far from users.  The Seattle project enables users to securely share
     (and acquire) computing resources from their desktop, laptop, or smartphone
@@ -1071,7 +1087,8 @@ projects:
         anchor: "sensibility"
         status: *retired
         site: "https://sensibilitytestbed.com/"
-        description: "Given the close proximity of smartphones to users,
+        description:
+          - "Given the close proximity of smartphones to users,
     researchers would benefit from accessing smartphone sensors. By giving the user control over what amount and type of data is gathered from these sensors, Sensibility ensures the
     privacy of user information.  Sensibility also has additional security
     protections that ensure the safety of the device, while giving researchers
@@ -1098,10 +1115,11 @@ projects:
     - &blindspots
         name: "API Blindspots"
         anchor: "blindspots"
-        image: "img/projects/blindspots_diagram.png"
+        image: "/img/projects/blindspots_diagram.png"
         status: *retired
         site:
-        description: "This project seeks to identify situations where security issues are created by the misunderstanding of APIs
+        description:
+          - "This project seeks to identify situations where security issues are created by the misunderstanding of APIs
     by developers. In particular, we are looking for security-related blind spots in popular Java and Python APIs as a way to more holistically find and address bugs."
         products: "We are in stealth mode!  If you want to be contacted when we
     publicly release, please email <a href=\"mailto:blindspots@googlegroups.com\">blindspots@googlegroups.com</a>."
@@ -1124,9 +1142,10 @@ projects:
         name: "NetCheck"
         anchor: "netcheck"
         status: *retired
-        image: "img/projects/netcheck_diagram.png"
+        image: "/img/projects/netcheck_diagram.png"
         site: "https://netcheck.poly.edu/"
-        description: "NetCheck is a tool that can determine the cause of a failure
+        description:
+          - "NetCheck is a tool that can determine the cause of a failure
         in a networked application, without any application or network-specific knowledge,
         and without any modification to the application or its infrastructure. By
         treating an application as a blackbox, a diagnosis can be made using just
@@ -1156,9 +1175,10 @@ projects:
         name: "upPIR"
         anchor: "uppir"
         status: *retired
-        image: "img/projects/uppir_data_download.png"
+        image: "/img/projects/uppir_data_download.png"
         site: "https://uppir.poly.edu"
-        description: "upPIR is a secure protocol that allows users to mask their information requests by privately retrieving information from a set of mirrors. By packaging the required information with other data that potentially could be requested, the user's preferences—and any assumptions that could be deduced from those preferences—remain hidden."
+        description:
+          - "upPIR is a secure protocol that allows users to mask their information requests by privately retrieving information from a set of mirrors. By packaging the required information with other data that potentially could be requested, the user's preferences—and any assumptions that could be deduced from those preferences—remain hidden."
         products: "The prototype code for this project is available at its <a href=\"https://github.com/trishankkarthik/multiblockpir\">github repository</a>."
         people:
             - *luqin_wang
@@ -1173,9 +1193,10 @@ projects:
         name: "Virtual Secure Network (VSN)"
         anchor: "vsn"
         status: *retired
-        image: "img/projects/vsn_diagram.png"
+        image: "/img/projects/vsn_diagram.png"
         site: "https://vsn.poly.edu"
-        description: "Virtual Secure Network (VSN) is a network service that provides remote users the security benefits of a managed (corporate/cloud) network, without sacrificing the faster Internet performance more typical of an insecure direct connection. A VSN is analogous to a Virtual Private Network (VPN) in that it offers security protections, such as firewalls, multiple Antivirus scanners, IDSs, and IPSs. However, VSN can guarantee lower costs for management, and better performance for its end users."
+        description:
+          - "Virtual Secure Network (VSN) is a network service that provides remote users the security benefits of a managed (corporate/cloud) network, without sacrificing the faster Internet performance more typical of an insecure direct connection. A VSN is analogous to a Virtual Private Network (VPN) in that it offers security protections, such as firewalls, multiple Antivirus scanners, IDSs, and IPSs. However, VSN can guarantee lower costs for management, and better performance for its end users."
         products: "This <a href=\"https://www.google.com/patents/US9246929\">patented technique</A> and its source code are available on the project <a href=\"https://vsn.poly.edu\">web site</a>."
         people:
             - *sai_peddinti

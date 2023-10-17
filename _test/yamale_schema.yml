@@ -47,7 +47,7 @@ project:
     image: str(required=False)
     site: str(required=False)
     status: include('status')
-    description: str()
+    description: list(str())
     products: str()
     people: list(any(include('person'), include('proj_person')))
     tags: list(include('tag'))
